@@ -2,7 +2,7 @@
 
 [ Info ]
 
-- Scriptul este bazat ESX , dependete pentru utilizare completa > 
+- Scriptul este bazat in ESX 
 
 
 - 100 % modificabil usor de optimizat !
